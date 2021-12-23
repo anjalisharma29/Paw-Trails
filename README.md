@@ -10,7 +10,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin volutpat pulvinar
 
 Donec erat erat, vulputate quis elit vulputate, euismod suscipit lectus. Donec mollis at justo vulputate congue. Fusce faucibus felis vitae sem consectetur, non faucibus justo condimentum. Nam euismod lacus quis mauris dapibus, id tempus dolor imperdiet. Aliquam neque ligula, mattis eu convallis id, facilisis non ante. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam ultricies condimentum purus tincidunt pretium. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aliquam tempus diam sed imperdiet pharetra. Sed cursus accumsan turpis, eget iaculis ligula venenatis at. Fusce efficitur vehicula urna. Donec gravida aliquet purus nec posuere. In nec malesuada sapien. 
 
-![](/media/screenshot.png)
+![](/media/screenshot.PNG)
 
 ## ⚡ TechStack Used
 
